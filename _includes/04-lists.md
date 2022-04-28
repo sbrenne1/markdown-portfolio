@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+- [ ] Task 1
+- [ ] Takk 2
+- [ ] Taks 3
